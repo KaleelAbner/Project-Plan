@@ -1,0 +1,9 @@
+Client (React.js) 
+    ├── User Authentication (JWT)
+    ├── Meal Logging (Axios calls to Backend)
+    ├── Nutrition Tracking (Axios calls to Backend)
+Backend (Node.js + Express.js) 
+    ├── Routes for User Authentication
+    ├── Routes for Meal Logging
+    ├── Database Operations (MongoDB + Mongoose)
+    └── External API Calls (Nutrition API)
